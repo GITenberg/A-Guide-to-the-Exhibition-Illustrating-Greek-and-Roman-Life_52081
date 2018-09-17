@@ -1,0 +1,26 @@
+_repo: A-Guide-to-the-Exhibition-Illustrating-Greek-and-Roman-Life_52081
+_version: 0.0.1
+creator:
+  author:
+    agent_name: British Museum. Department of Greek and Roman Antiquities
+    alias: British Museum. Dept. of Greek and Roman Antiquities
+    gutenberg_agent_id: '46665'
+    url: http://www.gutenberg.org/2009/agents/46665
+description: ''
+gutenberg_issued: '2016-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52081'
+  lccn: '24011336'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Civilization, Greco-Roman'
+- !lcsh 'Rome -- Antiquities'
+- !lcsh 'Greece -- Antiquities'
+- !lcc 'DE'
+- GITenberg
+title: A Guide to the Exhibition Illustrating Greek and Roman Life
+url: http://www.gutenberg.org/ebooks/52081
